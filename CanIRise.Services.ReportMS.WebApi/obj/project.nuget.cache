@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Azb0wKW8B5Fq8xnsCGtQGMcwSKobXRCDHrFI6L/d48GSjDqzLgQLTLwMOQlC2Jk+WwqpyZXsc5MZEzirjXTGVA==",
+  "dgSpecHash": "ehuAcQD6fKaLCpqz+Ue23XHqK6Hp4QtNDaE1WpTWRgzaqDauwCrCkh9oz7myJtHOySvjpJviS4N7IDpasYg/Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

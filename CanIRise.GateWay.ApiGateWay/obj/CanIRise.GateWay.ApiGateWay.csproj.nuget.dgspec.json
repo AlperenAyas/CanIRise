@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj": {}
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj": {
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj",
         "projectName": "CanIRise.GateWay.ApiGateWay",
-        "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj",
+        "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.GateWay.ApiGateWay\\CanIRise.GateWay.ApiGateWay.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.GateWay.ApiGateWay\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.GateWay.ApiGateWay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",

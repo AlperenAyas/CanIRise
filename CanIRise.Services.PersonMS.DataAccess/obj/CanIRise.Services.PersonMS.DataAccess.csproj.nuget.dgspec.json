@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {}
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
         "projectName": "CanIRise.Services.PersonMS.DataAccess",
-        "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
+        "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\source\\repos\\CanIRise\\CanIRise.Services.PersonMS.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,32 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
