@@ -1,0 +1,15 @@
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\bin\Debug\net5.0\CanIRise.Services.PersonMS.Business.deps.json
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\bin\Debug\net5.0\CanIRise.Services.PersonMS.Business.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\bin\Debug\net5.0\ref\CanIRise.Services.PersonMS.Business.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\bin\Debug\net5.0\CanIRise.Services.PersonMS.Business.pdb
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\bin\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\bin\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.pdb
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.csprojAssemblyReference.cache
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.AssemblyInfoInputs.cache
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.AssemblyInfo.cs
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.csproj.CopyComplete
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\ref\CanIRise.Services.PersonMS.Business.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.Business\obj\Debug\net5.0\CanIRise.Services.PersonMS.Business.pdb

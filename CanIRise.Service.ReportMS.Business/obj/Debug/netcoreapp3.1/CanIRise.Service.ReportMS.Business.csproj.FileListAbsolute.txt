@@ -1,0 +1,9 @@
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.deps.json
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.dll
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.pdb
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.AssemblyInfo.cs
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.dll
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\netcoreapp3.1\CanIRise.Service.ReportMS.Business.pdb
