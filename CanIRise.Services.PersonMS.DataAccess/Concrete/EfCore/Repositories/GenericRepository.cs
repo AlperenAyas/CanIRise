@@ -12,6 +12,11 @@ namespace CanIRise.Services.PersonMS.DataAccess.Concrete.EfCore.Repositories
     {
         private readonly CanIRiseContext _context;
 
+        public GenericRepository(CanIRiseContext context)
+        {
+            _context = context;
+        }
+
         public void Create(TEntity entity)
         {
             _context.Set<TEntity>().Add(entity);

@@ -1,0 +1,15 @@
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\net5.0\CanIRise.Services.ReportMS.DataAccess.dll
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.AssemblyInfo.cs
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\net5.0\CanIRise.Services.ReportMS.Business.deps.json
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\net5.0\CanIRise.Services.ReportMS.Business.dll
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\net5.0\ref\CanIRise.Services.ReportMS.Business.dll
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\net5.0\CanIRise.Services.ReportMS.Business.pdb
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\bin\Debug\net5.0\CanIRise.Services.ReportMS.DataAccess.pdb
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.csproj.CopyComplete
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.dll
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\ref\CanIRise.Services.ReportMS.Business.dll
+C:\Users\alper\source\repos\CanIRiseGit\CanIRise.Service.ReportMS.Business\obj\Debug\net5.0\CanIRise.Services.ReportMS.Business.pdb

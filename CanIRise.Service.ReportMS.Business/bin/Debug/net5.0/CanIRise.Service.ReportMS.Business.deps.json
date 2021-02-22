@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CanIRise.Service.ReportMS.Business/1.0.0": {
+        "runtime": {
+          "CanIRise.Service.ReportMS.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CanIRise.Service.ReportMS.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

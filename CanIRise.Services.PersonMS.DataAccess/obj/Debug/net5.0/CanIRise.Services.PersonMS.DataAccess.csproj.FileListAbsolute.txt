@@ -1,0 +1,15 @@
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\bin\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.deps.json
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\bin\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.runtimeconfig.json
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\bin\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.runtimeconfig.dev.json
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\bin\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\bin\Debug\net5.0\ref\CanIRise.Services.PersonMS.DataAccess.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\bin\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.pdb
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.csprojAssemblyReference.cache
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.AssemblyInfo.cs
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\ref\CanIRise.Services.PersonMS.DataAccess.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.pdb
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.Services.PersonMS.DataAccess\obj\Debug\net5.0\CanIRise.Services.PersonMS.DataAccess.genruntimeconfig.cache

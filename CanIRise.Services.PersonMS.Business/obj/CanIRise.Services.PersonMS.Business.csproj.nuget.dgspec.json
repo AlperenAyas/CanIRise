@@ -47,6 +47,10 @@
             "Mapster": {
               "target": "Package",
               "version": "[7.1.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
             }
           },
           "imports": [

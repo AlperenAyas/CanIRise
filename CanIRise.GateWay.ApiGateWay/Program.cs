@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CanIRise.GateWay.ApiGateWay
 {
-    public class Program
+    public static class Program
     {
         public static void Main(string[] args)
         {
@@ -18,6 +18,10 @@ namespace CanIRise.GateWay.ApiGateWay
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+            .ConfigureAppConfiguration((host,config)=>{
+                config.AddJsonFile("ocelot.json");
+                })
+
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
