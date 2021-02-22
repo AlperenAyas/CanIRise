@@ -19,7 +19,7 @@ namespace CanIRise.Services.ReportMS.WebApi.RabbitMQ
         }
 
 
-        public Task RabbitInit(){
+        public async Task RabbitInit(){
             var factory = new ConnectionFactory { Uri = new Uri("amqp://guest:guest@localhost:5672") };
 
             using var _connection = factory.CreateConnection();
@@ -33,9 +33,8 @@ namespace CanIRise.Services.ReportMS.WebApi.RabbitMQ
                 var message = Encoding.UTF8.GetString(body);
                 Console.WriteLine(body);
             };
-            _channel.BasicConsume("test-queue", true, consumer);
+            _channel.BasicConsume("test-queue", false, consumer);
 
-            return Task.CompletedTask;
             //var message = new { Name = "Producer", Message = "Report Stuffs" };
             //var body = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(message));
 

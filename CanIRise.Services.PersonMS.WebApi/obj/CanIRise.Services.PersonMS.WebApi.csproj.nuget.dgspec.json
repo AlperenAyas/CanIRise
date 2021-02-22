@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj": {}
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj": {
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj",
         "projectName": "CanIRise.Services.PersonMS.Business",
-        "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj",
+        "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj"
+              "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
         "projectName": "CanIRise.Services.PersonMS.DataAccess",
-        "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
+        "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\CanIRise.Services.PersonMS.DataAccess.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj": {
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj",
         "projectName": "CanIRise.Services.PersonMS.WebApi",
-        "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj",
+        "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj": {
-                "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj"
+              "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj": {
+                "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.Business\\CanIRise.Services.PersonMS.Business.csproj"
               }
             }
           }

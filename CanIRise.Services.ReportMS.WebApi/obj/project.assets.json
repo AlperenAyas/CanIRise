@@ -5708,11 +5708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
       "projectName": "CanIRise.Services.ReportMS.WebApi",
-      "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
+      "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
       "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5729,8 +5729,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.ReportMS.Business\\CanIRise.Services.ReportMS.Business.csproj": {
-              "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.ReportMS.Business\\CanIRise.Services.ReportMS.Business.csproj"
+            "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.ReportMS.Business\\CanIRise.Services.ReportMS.Business.csproj": {
+              "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.ReportMS.Business\\CanIRise.Services.ReportMS.Business.csproj"
             }
           }
         }

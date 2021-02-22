@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj": {}
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj": {
+    "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj",
         "projectName": "CanIRise.Services.ReportMS.DataAccess",
-        "projectPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj",
+        "projectPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\CanIRise.Services.ReportMS.DataAccess.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.RepostMS.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",

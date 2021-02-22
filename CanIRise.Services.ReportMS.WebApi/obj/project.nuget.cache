@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKRF9CHTAysSseDVzOK2QI6aIIrRm7X4foIRY/p1Y4Gp3mley8cBe6Toif+7IJ6XaNKBpFcMllK0nTJCdpDglA==",
+  "dgSpecHash": "xLEZ9MVO4zNzXmWDsccf1giDTiITIXuP5i7RyUMHDfPOkHYrgPB5saMMVBG9qiTPz3IG9susrgIJqSUidzWTaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.ReportMS.WebApi\\CanIRise.Services.ReportMS.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alper\\.nuget\\packages\\mapster\\7.1.3\\mapster.7.1.3.nupkg.sha512",
     "C:\\Users\\alper\\.nuget\\packages\\mapster.core\\1.1.2\\mapster.core.1.1.2.nupkg.sha512",

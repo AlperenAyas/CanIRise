@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kK3PqVFp2+N+Oj1CSCV/y4lH+FwGMhh1lyWGYRXpnTvm1XC/0CG851S88PihpwHY8V5atvbV35onQeBbGYGcA==",
+  "dgSpecHash": "cd+/RDF9SbRfSgEq6iy038O2OL6scQFEGpuqbw3qYdbszOE0T0UyhGERO5mkPiRTW8GcHZpRCNePbRFPt/32yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Service.ReportMS.Business\\CanIRise.Services.ReportMS.Business.csproj",
+  "projectFilePath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Service.ReportMS.Business\\CanIRise.Services.ReportMS.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alper\\.nuget\\packages\\mapster\\7.1.3\\mapster.7.1.3.nupkg.sha512",
     "C:\\Users\\alper\\.nuget\\packages\\mapster.core\\1.1.2\\mapster.core.1.1.2.nupkg.sha512",

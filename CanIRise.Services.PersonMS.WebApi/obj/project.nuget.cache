@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IyKzILpTNHlXZ+Hxp9b2yTjIWrLMPFcchrRLeLPBiojrYek2dNhzWmkVYLTmeVbrlUxxCtum8Y0Gpjqi24uXVA==",
+  "dgSpecHash": "18sHZxv5tkPizwKl9l+OTI4G/qbJk8VcLQN1xlMZ8FB8ig3FksP9mH2M6YZk7PZNfeyBT+OEgLevf8xZI226nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alper\\source\\repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\alper\\Source\\Repos\\CanIRiseGit\\CanIRise.Services.PersonMS.WebApi\\CanIRise.Services.PersonMS.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alper\\.nuget\\packages\\mapster\\7.1.3\\mapster.7.1.3.nupkg.sha512",
     "C:\\Users\\alper\\.nuget\\packages\\mapster.core\\1.1.2\\mapster.core.1.1.2.nupkg.sha512",

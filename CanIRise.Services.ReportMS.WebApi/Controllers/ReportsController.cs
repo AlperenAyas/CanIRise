@@ -26,8 +26,8 @@ namespace CanIRise.Services.ReportMS.WebApi.Controllers
             _http = http;
         }
 
-        [HttpGet]
-        public async Task<IActionResult> GetAll()
+        [HttpGet("{param}")]
+        public async Task<IActionResult> SearchLocation( string param)
         {
 
             var data = _service.Create(new ReportCreateDto());
@@ -35,7 +35,7 @@ namespace CanIRise.Services.ReportMS.WebApi.Controllers
             await _rabbit.RabbitInit();
             using var client = _http.CreateClient();
             client.BaseAddress = new Uri("http://localhost:50001");
-            var response = await client.GetAsync("/api/Persons/ReportByLocation/adana");
+            var response = await client.GetAsync($"/api/Persons/ReportByLocation/{param}");
 
             if (response.IsSuccessStatusCode)
             {
