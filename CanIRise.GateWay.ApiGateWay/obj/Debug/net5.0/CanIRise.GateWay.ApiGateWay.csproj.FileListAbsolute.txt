@@ -21,3 +21,14 @@ C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\obj\Debug\ne
 C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\obj\Debug\net5.0\ref\CanIRise.GateWay.ApiGateWay.dll
 C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\obj\Debug\net5.0\CanIRise.GateWay.ApiGateWay.pdb
 C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\obj\Debug\net5.0\CanIRise.GateWay.ApiGateWay.genruntimeconfig.cache
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\ocelot.json
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\bin\Debug\net5.0\Ocelot.dll
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\obj\Debug\net5.0\CanIRise.GateWay.ApiGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alper\Source\Repos\CanIRiseGit\CanIRise.GateWay.ApiGateWay\obj\Debug\net5.0\CanIRise.GateWay.ApiGateWay.csproj.CopyComplete
